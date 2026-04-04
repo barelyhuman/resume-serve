@@ -21,10 +21,23 @@
   },
   "work": [
     {
+      "name": "Bruno Software Pvt Ltd",
+      "position": "Software Developer 3",
+      "url": "https://usebruno.com",
+      "startDate": "2025-09-01",
+      "highlights": [
+        "Architect enterprise client-facing applications focusing on performance, responsiveness, and user experience",
+        "Improved development build times by 60% by migrating from Webpack to ESBuild for code minification",
+        "Collaborate with 7-person architecture team to design stable, extensible abstractions for UI components",
+        "Streamline user onboarding processes and simplify complex workflows for better user adoption"
+      ]
+    },
+    {
       "name": "Turbot",
       "position": "Software Architect",
       "url": "https://turbot.com",
       "startDate": "2025-05-12",
+      "endDate": "2025-08-19",
       "highlights": [
         "Architect enterprise client-facing applications focusing on performance, responsiveness, and user experience",
         "Improved development build times by 60% by migrating from Webpack to ESBuild for code minification",
