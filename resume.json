@@ -26,10 +26,11 @@
       "url": "https://usebruno.com",
       "startDate": "2025-09-01",
       "highlights": [
-        "Architect enterprise client-facing applications focusing on performance, responsiveness, and user experience",
-        "Improved development build times by 60% by migrating from Webpack to ESBuild for code minification",
-        "Collaborate with 7-person architecture team to design stable, extensible abstractions for UI components",
-        "Streamline user onboarding processes and simplify complex workflows for better user adoption"
+        "Delivered performance improvements and security patches for the Electron-based application",
+        "Managed open-source community engagement, triaging issues and prioritizing community-requested features",
+        "Led a team of 5 engineers to deliver Websocket support, SSE support, custom keybindings, and a hardened licensing server",
+        "Drove SOC-2 compliance initiatives through targeted infrastructure and security improvements",
+        "Primary owner of DevOps operations, spanning CI/CD, infrastructure provisioning, and release management"
       ]
     },
     {
@@ -223,12 +224,21 @@
     {
       "name": "Cloud",
       "level": "Intermediate",
-      "keywords": ["AWS", "GCP", "Azure"]
+      "keywords": [
+        "AWS",
+        "GCP",
+        "Azure"
+      ]
     },
     {
       "name": "Project Management",
       "level": "Basic",
-      "keywords": ["Kanban", "JIRA", "Code Reviews", "Technical Mentoring"]
+      "keywords": [
+        "Kanban",
+        "JIRA",
+        "Code Reviews",
+        "Technical Mentoring"
+      ]
     }
   ],
   "projects": [
@@ -274,11 +284,19 @@
   "interests": [
     {
       "name": "Open Source",
-      "keywords": ["Contributor", "Maintainer", "Community"]
+      "keywords": [
+        "Contributor",
+        "Maintainer",
+        "Community"
+      ]
     },
     {
       "name": "Tooling and Automation",
-      "keywords": ["CLI Tools", "Bundlers", "Custom Platforms"]
+      "keywords": [
+        "CLI Tools",
+        "Bundlers",
+        "Custom Platforms"
+      ]
     }
   ]
 }
